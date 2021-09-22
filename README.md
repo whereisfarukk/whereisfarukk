@@ -1,24 +1,98 @@
-<h1 align="center">Hola, I'm omar faruk</h1>
-<h3 align="center">A learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oomar-farukk&label=Profile%20views&color=0e75b6&style=flat" alt="oomar-farukk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oomar-farukk" alt="oomar-farukk" /></a> </p>
 
-- 📫 How to reach me **whereisfarukk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar faruk" height="30" width="40" /></a>
-<a href="https://fb.com/omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar faruk" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/old_soul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="old_soul" height="30" width="40" /></a>
-<a href="https://discord.gg/old_soul#6669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="old_soul#6669" height="30" width="40" /></a>
-</p>
+[![CF](https://cp-logo.vercel.app/codeforces/TamimEhsan?logo=true)](https://codeforces.com/profile/old_soul)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
+ <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oomar-farukk&show_icons=true&locale=en&layout=compact" alt="oomar-farukk" /></p>
+<!-- [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
+[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
+[![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
+[![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
+[![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
+### Hola
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oomar-farukk&show_icons=true&locale=en" alt="oomar-farukk" /></p>
+I am omar faruk. I am an undergraduate student at SUST SWE.
 
+- 💻 I ~like~ **love** coding
+- 🌱 I’m currently ~learning JAVA 
+<!-- - Usesless Stats:
+- 🏅 Number of times I was asked to hack a FB : 3
+- 📱  Number of times I was approached with an app idea: 7 
+-->
+ ## Connect with me:
+
+<!--[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+ [<img align="left" alt="omar-faruk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="omar faruk  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="o_m_a_r_faruk_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="old soul | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+
+<br /> 
+
+## Languages
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+<!--![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)-->
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)-->
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+<!--![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)-->
+<!--![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
+<!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
+<!--![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)-->
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <!--![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />-->
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+<!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
+
+<!--
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br /><br /><br /> 
+-->
+<!--
+## Live Projects
+
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+[![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
+-->
+## Github Overview
+<!--
+<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oomar-farukk&show_icons=true&locale=en" alt="oomar-farukk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readmestats.vercel.app/api/top-langs?username=oomar-farukk&show_icons=true&locale=en&layout=compact" alt="oomar-farukk" /></p>
+
+<br>
+<br>
+<br>
+ <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=TamimEhsan) -->
+<br />
+
+<!-- Place this tag where you want the button to render. -->
+⭐<a class="github-button" href="https://github.com/OOMAR-FARUKK/OOMAR-FARUKK" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star OOMAR-FARUKK/OOMAR-FARUKK on GitHub">Star this repository</a>
+
+<!--[website]: if i have website in future -->
+[instagram]: https://www.instagram.com/o_m_a_r_faruk_/
+[facebook]: https://www.facebook.com/profile.php?id=100005717017395
+[codeforces]:https://codeforces.com/profile/old_soul
+[linkedin]:https://www.linkedin.com/in/omar-faruk-aa63511ba/
