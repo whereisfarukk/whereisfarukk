@@ -1,10 +1,8 @@
 
 
-
-
-[![CF](https://cp-logo.vercel.app/codeforces/TamimEhsan?logo=true)](https://codeforces.com/profile/old_soul)
+[![CF](https://cp-logo.vercel.app/codeforces/old_soul?logo=true)](https://codeforces.com/profile/old_soul)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
- <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
+ <img src="https://komarev.com/ghpvc/?username=OOMAR-FARUKK">
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
 
@@ -26,10 +24,12 @@ I am omar faruk. I am an undergraduate student at SUST SWE.
  ## Connect with me:
 
 <!--[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="faruk | mail" width="22px" src="https://www.svgrepo.com/show/285/email.svg" />][email]
  [<img align="left" alt="omar-faruk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="omar faruk  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="o_m_a_r_faruk_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="old soul | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="old soul | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br /> 
 
@@ -37,22 +37,25 @@ I am omar faruk. I am an undergraduate student at SUST SWE.
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 <!--![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)-->
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)-->
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 <!--![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)-->
 <!--![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 ## Tools:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
 <!--![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)-->
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <!--![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />-->
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20Excel)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+
 <!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
 
 <!--
@@ -92,7 +95,9 @@ I am omar faruk. I am an undergraduate student at SUST SWE.
 ⭐<a class="github-button" href="https://github.com/OOMAR-FARUKK/OOMAR-FARUKK" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star OOMAR-FARUKK/OOMAR-FARUKK on GitHub">Star this repository</a>
 
 <!--[website]: if i have website in future -->
+[email]:https://mail.google.com/mail/u/1/#inbox
 [instagram]: https://www.instagram.com/o_m_a_r_faruk_/
 [facebook]: https://www.facebook.com/profile.php?id=100005717017395
 [codeforces]:https://codeforces.com/profile/old_soul
 [linkedin]:https://www.linkedin.com/in/omar-faruk-aa63511ba/
+[discord]:https://discord.com/channels/@me/
