@@ -1,7 +1,7 @@
 
 
 [![CF](https://cp-logo.vercel.app/codeforces/old_soul?logo=true)](https://codeforces.com/profile/old_soul)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpxYPmuK7b8im1c48MLToA?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
  <img src="https://komarev.com/ghpvc/?username=OOMAR-FARUKK">
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
