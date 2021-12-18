@@ -92,7 +92,7 @@ I am omar faruk. I am an undergraduate student at SUST SWE.
 <br />
 
 <!-- Place this tag where you want the button to render. -->
-⭐<a class="github-button" href="https://github.com/OOMAR-FARUKK/OOMAR-FARUKK" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star OOMAR-FARUKK/OOMAR-FARUKK on GitHub">Star this repository</a>
+⭐<a class="github-button" href="https://github.com/whereisfarukk/whereisfarukk" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star whereisfarukk/whereisfarukk on GitHub">Star this repository</a>
 
 <!--[website]: if i have website in future -->
 [email]:https://mail.google.com/mail/u/1/#inbox
