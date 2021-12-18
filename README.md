@@ -81,9 +81,9 @@ I am omar faruk. I am an undergraduate student at SUST SWE.
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oomar-farukk&show_icons=true&locale=en" alt="oomar-farukk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=whereisfarukk&show_icons=true&locale=en" alt="whereisfarukk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readmestats.vercel.app/api/top-langs?username=oomar-farukk&show_icons=true&locale=en&layout=compact" alt="oomar-farukk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readmestats.vercel.app/api/top-langs?username=whereisfarukk&show_icons=true&locale=en&layout=compact" alt="whereisfarukk" /></p>
 
 <br>
 <br>
