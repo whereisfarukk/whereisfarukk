@@ -13,7 +13,7 @@
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
 ### Hola
 
-I am omar faruk , an undergraduate student at SUST Software engineering .
+***I am omar faruk , an undergraduate student at SUST Software engineering .***
 
 - 💻 I ~like~ **love** coding
 - 🌱 I’m currently ~learning NOTHING 
