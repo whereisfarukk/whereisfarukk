@@ -1,5 +1,5 @@
 
-![walli](https://user-images.githubusercontent.com/69864169/134402524-2faf930c-d739-4684-b297-6c2c50f56787.jpg)
+![walli](https://github.com/whereisfarukk/Photos/blob/main/walli.jpg)
 [![CF](https://cp-logo.vercel.app/codeforces/old_soul?logo=true)](https://codeforces.com/profile/old_soul)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpxYPmuK7b8im1c48MLToA?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
  <img src="https://komarev.com/ghpvc/?username=OOMAR-FARUKK">
