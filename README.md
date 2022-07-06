@@ -82,9 +82,8 @@
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=whereisfarukk&show_icons=true&locale=en" alt="whereisfarukk" /></p>
+[![ github stats](https://github-readme-stats.vercel.app/api?username=whereisfarukk&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)](https://github.com/whereisfarukk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whereisfarukk&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact&langs_count=8)](https://github.com/whereisfarukk/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readmestats.vercel.app/api/top-langs?username=whereisfarukk&show_icons=true&locale=en&layout=compact" alt="whereisfarukk" /></p>
 
 <br>
 <br>
