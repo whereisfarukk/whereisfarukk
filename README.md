@@ -96,7 +96,7 @@
 
 <!--[website]: if i have website in future -->
 [email]:https://mail.google.com/mail/u/1/#inbox
-[instagram]: https://www.instagram.com/o_m_a_r_faruk_/
+[instagram]: https://www.instagram.com/iam_farukkk/
 [facebook]: https://www.facebook.com/profile.php?id=100005717017395
 [codeforces]:https://codeforces.com/profile/old_soul
 [linkedin]:https://www.linkedin.com/in/omar-faruk-aa63511ba/
