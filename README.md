@@ -42,6 +42,7 @@
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)-->
 <!--![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)-->
 <!--![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
+![SQLite](https://img.shields.io/badge/sqlite-000000?style=flat&logo=sqlite)
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 ## Tools:
 
@@ -56,7 +57,7 @@
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20Excel)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![GIMP](https://img.shields.io/badge/-GIMP%20-000000?style=flat&logo=GIMP%20)
-
+![MATLAB](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=MATLAB%20)
 <!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
 
 <!--
