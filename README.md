@@ -51,13 +51,15 @@
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />-->
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <!--![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />-->
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=matlab)
+<!--![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />-->
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20Excel)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![GIMP](https://img.shields.io/badge/-GIMP%20-000000?style=flat&logo=GIMP%20)
-![MATLAB](https://img.shields.io/badge/-Matlab-000000?style=flat&logo=MATLAB%20)
+
 <!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
 
 <!--
