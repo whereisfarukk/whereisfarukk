@@ -15,7 +15,7 @@
 
 ***I am omar faruk , an undergraduate student at SUST Software engineering .***
 
-- 💻 I ~like~ **love** coding
+- 💻 I ~like~ **love** nothing
 - 🌱 I’m currently ~learning NOTHING 
 <!-- - Usesless Stats:
 - 🏅 Number of times I was asked to hack a FB : 3
