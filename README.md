@@ -39,14 +39,17 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 <!--![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)-->
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)-->
-<!--![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 <!--![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
-![SQLite](https://img.shields.io/badge/sqlite-000000?style=flat&logo=sqlite)
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />-->
