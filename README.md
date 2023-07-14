@@ -61,7 +61,7 @@
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20Excel)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
-![GIMP](https://img.shields.io/badge/-GIMP%20-000000?style=flat&logo=GIMP%20)
+![GIMP](https://img.shields.io/badge/gimp-000000?style=flat&logo=gimp&logoColor=white)
 
 <!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
 
