@@ -51,6 +51,7 @@
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim)
+![LaTex](https://img.shields.io/static/v1?style=flat&message=LaTeX&color=000000&logo=LaTeX&logoColor=008080&label=)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />-->
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
