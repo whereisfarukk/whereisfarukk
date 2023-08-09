@@ -65,6 +65,7 @@
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![GIMP](https://img.shields.io/badge/gimp-000000?style=flat&logo=gimp&logoColor=white)
 
+![Linux](https://img.shields.io/static/v1?style=flat&&message=Linux&color=000000&logo=Linux&logoColor=FCC624&label=)
 <!--![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)-->
 
 <!--
