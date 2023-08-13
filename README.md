@@ -12,7 +12,7 @@
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
-### Hola
+### Hola!
 
 ***I am omar faruk , an undergraduate student at SUST Software engineering .***
 
@@ -34,7 +34,7 @@
 
 <br /> 
 
-## Languages
+## Languages:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -86,6 +86,8 @@
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
 [![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
 -->
+## Handles:
+[![StopStalk](https://img.shields.io/static/v1?style=flat&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/Old_Soul)
 ## Github Overview
 <!--
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
