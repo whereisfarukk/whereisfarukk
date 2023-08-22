@@ -87,7 +87,9 @@
 [![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
 -->
 ## Handles:
-[![StopStalk](https://img.shields.io/static/v1?style=flat&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/Old_Soul)
+[![StopStalk](https://img.shields.io/static/v1?style=flat&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/Old_Soul) 
+[![BeeCrowd](https://img.shields.io/static/v1?style=flat&message=BeeCrowd&color=27AE60&logo=BeeCrowd&logoColor=FFFFFF&label=)](https://www.beecrowd.com.br/judge/en/profile/442755)
+
 ## Github Overview
 <!--
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
