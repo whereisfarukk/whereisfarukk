@@ -86,6 +86,8 @@
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-F44A6A?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
 [![Algorithm Visualizer](https://img.shields.io/badge/-AlgorithmVisualizer-0085C0?style=flat&logo=ripple)](https://tamimehsan.github.io/AlgorithmVisualizer/)
 -->
+## Familiar with:
+![Unity](https://img.shields.io/static/v1?style=flat&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
 ## Handles:
 [![StopStalk](https://img.shields.io/static/v1?style=flat&message=StopStalk&color=536DFE&logo=StopStalk&logoColor=FFFFFF&label=)](https://www.stopstalk.com/user/profile/Old_Soul) 
 [![BeeCrowd](https://img.shields.io/static/v1?style=flat&message=BeeCrowd&color=27AE60&logo=BeeCrowd&logoColor=FFFFFF&label=)](https://www.beecrowd.com.br/judge/en/profile/442755)
