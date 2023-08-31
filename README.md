@@ -110,7 +110,7 @@
 ⭐<a class="github-button" href="https://github.com/whereisfarukk/whereisfarukk" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star whereisfarukk/whereisfarukk on GitHub">Star this repository</a>
 
 <!--[website]: if i have website in future -->
-[email]:https://mail.google.com/mail/u/1/#inbox
+[email]:https://mail.google.com/mail/u/2/#inbox
 [instagram]: https://www.instagram.com/whereisfarukk_/
 [facebook]: https://www.facebook.com/profile.php?id=100005717017395
 [codeforces]:https://codeforces.com/profile/old_soul
