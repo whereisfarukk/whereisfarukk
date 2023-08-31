@@ -28,7 +28,7 @@
 [<img align="left" alt="faruk | mail" width="22px" src="https://www.svgrepo.com/show/285/email.svg" />][email]
  [<img align="left" alt="omar-faruk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="omar faruk  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="o_m_a_r_faruk_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="whereisfarukk_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="old soul | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="old soul | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
@@ -111,7 +111,7 @@
 
 <!--[website]: if i have website in future -->
 [email]:https://mail.google.com/mail/u/1/#inbox
-[instagram]: https://www.instagram.com/iam_farukkk/
+[instagram]: https://www.instagram.com/whereisfarukk_/
 [facebook]: https://www.facebook.com/profile.php?id=100005717017395
 [codeforces]:https://codeforces.com/profile/old_soul
 [linkedin]:https://www.linkedin.com/in/omar-faruk-aa63511ba/
