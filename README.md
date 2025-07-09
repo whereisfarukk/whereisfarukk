@@ -38,19 +38,37 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-<!--![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+<!--![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)-->
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
 <!--![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)-->
 <!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
+
+## Framework
+![React](https://img.shields.io/badge/-ReactJs-000000?logo=react&style=flat)
+![NextJs](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&style=flat)
+![Astro](https://img.shields.io/badge/-Astro-000000?logo=astro&style=flat)
+![NodeJs](https://img.shields.io/badge/node.js-000000?logo=Node.js&style=flat)
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?logo=express&style=flat)
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwind-css&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&style=flat)
+
+
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase)
 
+![Jest](https://img.shields.io/static/v1?style=flat&&message=Jest&color=000000&logo=Jest&logoColor=FCC624&label=)
+![Cypress](https://img.shields.io/static/v1?style=flat&&message=Cypress&color=000000&logo=cypress&logoColor=FCC624&label=)
 ![JUnit5](https://img.shields.io/static/v1?style=flat&&message=JUnit5&color=000000&logo=JUnit5&logoColor=FCC624&label=)
 ![Selenium](https://img.shields.io/static/v1?style=flat&&message=Selenium&color=000000&logo=Selenium&logoColor=FCC624&label=)
 
@@ -65,10 +83,7 @@
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=matlab)
 <!--![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />-->
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-000000?style=flat&logo=microsoft%20Excel)
-![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
+
 ![GIMP](https://img.shields.io/badge/gimp-000000?style=flat&logo=gimp&logoColor=white)
 
 ![Linux](https://img.shields.io/static/v1?style=flat&&message=Linux&color=000000&logo=Linux&logoColor=FCC624&label=)
