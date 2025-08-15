@@ -37,7 +37,7 @@
 ## Languages:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
 
