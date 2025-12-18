@@ -2,7 +2,7 @@
 ![walli](https://github.com/whereisfarukk/whereisfarukk/blob/main/images/wall_e_4-wallpaper-1440x1080.jpg)
 <!--[![CF](https://cp-logo.vercel.app/codeforces/old_soul?logo=true)](https://codeforces.com/profile/old_soul)-->
 [![codeforces](https://badges.joonhyung.xyz/codeforces/old_soul.svg?style=plastic)](https://codeforces.com/profile/old_soul)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGpxYPmuK7b8im1c48MLToA?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://whereisfarukk.github.io/blog/)
  <img src="https://komarev.com/ghpvc/?username=OOMAR-FARUKK">
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
